@@ -1,6 +1,12 @@
+h1 {
+    text-align: center;
+    width: 100%;
+}
+
 nav ul {
     display: flex;
     list-style: none;
+    justify-content: flex-end;
     padding: 0;
     margin: 0;
 }
