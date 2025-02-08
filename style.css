@@ -23,6 +23,10 @@ p {
     text-align: center;
 }
 
+nav a:hover {
+    color: #808080;
+}
+
 nav ul {
     display: flex;
     list-style: none;
