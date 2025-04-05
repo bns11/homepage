@@ -11,6 +11,8 @@ li {
     list-style: none;
 }
 
+
+
 .hello {
     background-color: #24292e;
     color: white;
@@ -45,12 +47,25 @@ nav ul {
 }
 
 nav li {
-    margin-right: 20px;
+    padding: 5px;
+    margin: 10px 10px 0px 10px;
 }
 
 nav a {
     text-decoration: none;
     color: #333;
+}
+
+nav ul li:hover {
+    background-color: #24292e;
+    border-radius: 5px;
+    color: white;
+    font: bold;
+    transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #c8c8c8;
 }
 
 /* about */
