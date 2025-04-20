@@ -104,12 +104,14 @@ nav ul li a:hover {
 }
 
 #contact dd {
-    width:85%;
+    width:75%;
     margin-bottom: 10px;
 }
 
 #contact dd input,
 #contact dd textarea {
+    display: flex;
+    text-align: center;
     width: 100%;
     padding: 5px;
 }
