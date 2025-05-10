@@ -85,14 +85,16 @@ nav ul li a:hover {
     width: 20%;
     margin: 0%;
     border-bottom: solid 1px #c8c8c8;
-    /* padding: 15px 0 15px 0; */
+    padding: 15px 0 15px 40px;
+    box-sizing: border-box;
 }
 
 #news dd {
     width: 80%;
     margin: 0%;
     border-bottom: solid 1px #c8c8c8;
-    /* padding: 15px 0 15px 0; */
+    padding: 15px 0 15px 0;
+    box-sizing: border-box;
 }
 
 /* contact */
