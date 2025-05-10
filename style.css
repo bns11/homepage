@@ -104,12 +104,15 @@ nav ul li a:hover {
 }
 
 #contact dt {
-    width:15%;
+    width:25%;
+    padding-left: 40px;
+    box-sizing: border-box;
 }
 
 #contact dd {
-    width:75%;
+    width:65%;
     margin-bottom: 10px;
+    box-sizing: border-box;
 }
 
 #contact dd input,
