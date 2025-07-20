@@ -135,6 +135,7 @@ nav ul li a:hover {
 /* contact */
 #contact dl {
     display: flex;
+    margin-top: 10px;
     flex-wrap: wrap;
 }
 
