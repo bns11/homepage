@@ -18,6 +18,7 @@ body {
 }
 
 .hello {
+    padding: 10px 0px;
     background-color: #24292e;
     color: white;
 }
