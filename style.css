@@ -133,6 +133,24 @@ nav ul li a:hover {
     box-sizing: border-box;
 }
 
+/* link */
+.sns-icons {
+    display: flex;
+}
+
+.sns-icons li {
+    margin-right: 12px;
+}
+
+.sns-icons li:last-child {
+    margin-right: 0px;
+}
+
+.sns-icons img {
+    width: 32px;
+    height: 32px;
+}
+
 /* contact */
 #contact dl {
     display: flex;
