@@ -92,16 +92,16 @@ nav a {
     color: #333;
 }
 
-nav ul li:hover {
+/* nav ul li:hover {
     background-color: #24292e;
     color: white;
     font: bold;
     transition: background-color 0.3s ease;
-}
+} */
 
-nav ul li a:hover {
+/* nav ul li a:hover {
     color: #c8c8c8;
-}
+} */
 
 /* about */
 #about li:first-child {
