@@ -134,17 +134,23 @@ nav a {
 }
 
 /* link */
+
+#link ul {
+    padding: 0;
+}
+
 .sns-icons {
     display: flex;
+    justify-content: center;
 }
-
 .sns-icons li {
     margin-right: 12px;
+    margin-left: 12px;
 }
 
-.sns-icons li:last-child {
+/* .sns-icons li:last-child {
     margin-right: 0px;
-}
+} */
 
 .sns-icons img {
     width: 32px;
